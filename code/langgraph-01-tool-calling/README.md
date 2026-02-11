@@ -1,6 +1,6 @@
 # Tool Calling using Langgraph
 
-# Medium article explaining this. 
+## Medium article explaining this. 
 [Langgraph: Building a Tool calling agent](https://raghumb.medium.com/langgraph-building-a-tool-calling-agent-e80083b9dc09)
 
 ## Setup
