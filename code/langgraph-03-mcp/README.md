@@ -1,4 +1,4 @@
-# Tool Calling using Langgraph
+# MCP Server and Client in Langgraph
 
 Medium article explaining this.
 
