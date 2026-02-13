@@ -1,6 +1,6 @@
 # MCP Server and Client in Langgraph
 
-Medium article explaining this.
+Medium article explaining this. [Langgraph: Agent with MCP tools](https://raghumb.medium.com/langgraph-agent-with-mcp-tools-5c4d2a4322c9)
 
 ## Setup
 - Activate an environment
